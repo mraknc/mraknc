@@ -41,8 +41,7 @@
 
 ## 📊 GitHub İstatistikleri
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kullanıcıadın&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanıcıadın&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraknc&layout=compact&theme=radical)
 
 ---
 
