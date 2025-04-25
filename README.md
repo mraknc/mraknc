@@ -37,14 +37,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
----
-
-## 📊 GitHub İstatistikleri
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraknc&layout=compact&theme=radical)
-
----
-
 ## 📫 Bana Ulaşın
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-omer-akinci)
