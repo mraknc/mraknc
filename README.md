@@ -3,17 +3,10 @@
 🎯 **Full Stack Developer**  
 💻 Flutter, PHP, C#, JavaScript ile güçlü, performanslı uygulamalar geliştiriyorum.  
 🌐 Web'den mobile, front-end'den back-end'e uçtan uca yazılım çözümleri üretiyorum.
-
----
-
-## 🚀 Hakkımda Kısaca
-
-- 🧠 Sürekli öğrenmeye açık bir geliştiriciyim.  
-- 🛠️ Gerçek dünya projeleriyle deneyim kazanmaktan keyif alıyorum.  
-- 👨‍💻 Hem ekip içinde hem bireysel projelerde etkili şekilde çalışabilirim.  
-- 🎯 Hedefim, kullanıcı odaklı ve sürdürülebilir çözümler üretmek.
-
----
+🧠 Sürekli öğrenmeye açık bir geliştiriciyim.  
+🛠️ Gerçek dünya projeleriyle deneyim kazanmaktan keyif alıyorum.  
+👨‍💻 Hem ekip içinde hem bireysel projelerde etkili şekilde çalışabilirim.  
+🎯 Hedefim, kullanıcı odaklı ve sürdürülebilir çözümler üretmek.
 
 ## 🔧 Kullandığım Teknolojiler
 
